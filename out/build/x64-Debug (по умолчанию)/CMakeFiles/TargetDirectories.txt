@@ -1,0 +1,10 @@
+C:/fedorov_i_a/out/build/x64-Debug (по умолчанию)/CMakeFiles/edit_cache.dir
+C:/fedorov_i_a/out/build/x64-Debug (по умолчанию)/CMakeFiles/rebuild_cache.dir
+C:/fedorov_i_a/out/build/x64-Debug (по умолчанию)/prj.labs/CMakeFiles/edit_cache.dir
+C:/fedorov_i_a/out/build/x64-Debug (по умолчанию)/prj.labs/CMakeFiles/rebuild_cache.dir
+C:/fedorov_i_a/out/build/x64-Debug (по умолчанию)/prj.labs/lab01/CMakeFiles/lab01.dir
+C:/fedorov_i_a/out/build/x64-Debug (по умолчанию)/prj.labs/lab01/CMakeFiles/edit_cache.dir
+C:/fedorov_i_a/out/build/x64-Debug (по умолчанию)/prj.labs/lab01/CMakeFiles/rebuild_cache.dir
+C:/fedorov_i_a/out/build/x64-Debug (по умолчанию)/prj.labs/lab02/CMakeFiles/lab02.dir
+C:/fedorov_i_a/out/build/x64-Debug (по умолчанию)/prj.labs/lab02/CMakeFiles/edit_cache.dir
+C:/fedorov_i_a/out/build/x64-Debug (по умолчанию)/prj.labs/lab02/CMakeFiles/rebuild_cache.dir

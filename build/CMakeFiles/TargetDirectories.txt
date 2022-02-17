@@ -1,0 +1,6 @@
+C:/fedorov_i_a/build/CMakeFiles/ALL_BUILD.dir
+C:/fedorov_i_a/build/CMakeFiles/ZERO_CHECK.dir
+C:/fedorov_i_a/build/prj.labs/lab01/CMakeFiles/lab01.dir
+C:/fedorov_i_a/build/prj.labs/lab01/CMakeFiles/ALL_BUILD.dir
+C:/fedorov_i_a/build/prj.labs/lab02/CMakeFiles/lab02.dir
+C:/fedorov_i_a/build/prj.labs/lab02/CMakeFiles/ALL_BUILD.dir
