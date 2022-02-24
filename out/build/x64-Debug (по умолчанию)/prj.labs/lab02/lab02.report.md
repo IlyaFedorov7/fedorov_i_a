@@ -1,8 +1,8 @@
 ## Работа 2. Исследование каналов и JPEG-сжатия
 автор: Федоров Илья Андреевич БПМ-19-1
-дата: 2022-02-24T19:24:41
+дата: 2022-02-24
 
-<!-- url: https://gitlab.com/2021-misis-spring/polevoy_d_v/-/tree/master/prj.labs/lab02 -->
+<https://github.com/IlyaFedorov7/fedorov_i_a/blob/master/prj.labs/lab02>
 
 ### Задание
 1. В качестве тестового использовать изображение data/cross_0256x0256.png
@@ -20,7 +20,7 @@
 ![](C:\fedorov_i_a\bin.dbg\cross_0128x0128.jpg)
 Рис. 1. Тестовое изображение после сохранения в формате JPEG с качеством 25%
 
-![](C:\fedorov_i_a\bin.dbg\cross_0256x0256_png_channels.png)
+![](C:\fedorov_i_a\bin.dbg\cross_0256x0256_png_rgb_channels.png)
 Рис. 2. Визуализация каналов исходного тестового изображения
 
 ![](C:\fedorov_i_a\bin.dbg\cross_0128x0128_jpg_rgb_channels.png)
@@ -151,4 +151,4 @@ int main() {
 	waitKey(0);
 	return 0;
 }
-```
+
