@@ -1,0 +1,14 @@
+# ninja log v5
+2	2262	667419410	prj.labs/lab01/CMakeFiles/lab01.dir/lab01.cpp.obj	aab3d72afe2a9c8e
+24	2302	667419410	prj.labs/lab02/CMakeFiles/lab02.dir/lab02.cpp.obj	e3ff13dd7a1f1295
+2287	3225	667419411	../../../bin.dbg/lab01.exe	ed82569b19a5e21d
+2305	3225	667419411	../../../bin.dbg/lab02.exe	c14f9ed08280f4a8
+2	2385	667420027	prj.labs/lab02/CMakeFiles/lab02.dir/lab02.cpp.obj	e3ff13dd7a1f1295
+2390	2889	667420027	../../../bin.dbg/lab02.exe	c14f9ed08280f4a8
+1	1392	667420625	prj.labs/lab02/CMakeFiles/lab02.dir/lab02.cpp.obj	e3ff13dd7a1f1295
+1395	1733	667420626	../../../bin.dbg/lab02.exe	c14f9ed08280f4a8
+1	1344	667420946	prj.labs/lab02/CMakeFiles/lab02.dir/lab02.cpp.obj	e3ff13dd7a1f1295
+1346	1686	667420946	../../../bin.dbg/lab02.exe	c14f9ed08280f4a8
+1	290	667422002	build.ninja	ad8f88bba32e18c2
+2	1862	667422004	prj.labs/lab02/CMakeFiles/lab02.dir/lab02.cpp.obj	e3ff13dd7a1f1295
+1865	2271	667422004	../../../bin.dbg/lab02.exe	c14f9ed08280f4a8

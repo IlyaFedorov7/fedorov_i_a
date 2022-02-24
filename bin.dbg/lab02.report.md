@@ -1,6 +1,6 @@
 ## Работа 2. Исследование каналов и JPEG-сжатия
 автор: Федоров Илья Андреевич БПМ-19-1
-дата: 2022-02-24T19:24:41
+дата: 2022-02-24T19:06:42
 
 <!-- url: https://gitlab.com/2021-misis-spring/polevoy_d_v/-/tree/master/prj.labs/lab02 -->
 
@@ -17,19 +17,16 @@
 
 ### Результаты
 
-![](C:\fedorov_i_a\bin.dbg\cross_0128x0128.jpg)
+![](cross_0256x0256_025.jpg)
 Рис. 1. Тестовое изображение после сохранения в формате JPEG с качеством 25%
 
-![](C:\fedorov_i_a\bin.dbg\cross_0256x0256_png_channels.png)
+![](cross_0256x0256_png_channels.png)
 Рис. 2. Визуализация каналов исходного тестового изображения
 
-![](C:\fedorov_i_a\bin.dbg\cross_0128x0128_jpg_rgb_channels.png)
+![](cross_0256x0256_jpg_channels.png)
 Рис. 3. Визуализация каналов JPEG-версии тестового изображения
 
-![](C:\fedorov_i_a\bin.dbg\cross_0256x0256_hists.png)
-
-![](C:\fedorov_i_a\bin.dbg\cross_0128x0128_hists.png)
-
+![](cross_0256x0256_hists.png)
 Рис. 3. Визуализация гистограм исходного и JPEG-версии тестового изображения
 
 ### Текст программы
